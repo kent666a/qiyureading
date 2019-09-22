@@ -6,7 +6,7 @@ email:
 description: "淇奥读书，一个书友读书群。"
 keyword: "qiyu,reading,阅读,淇奥"
 url: ""              # your host, for absolute URL
-baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "/qiyureading"                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
