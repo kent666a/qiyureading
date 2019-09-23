@@ -6,7 +6,7 @@ email:
 description: "淇奥读书，一个书友读书群。"
 keyword: "qiyu,reading,阅读,淇奥"
 url: ""              # your host, for absolute URL
-baseurl: "/qiyureading"                             # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
@@ -79,7 +79,7 @@ ga_domain:
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "淇奥读书书友分享"
-sidebar-avatar: /qiyureading/img/about-qiyu.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-qiyu.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
