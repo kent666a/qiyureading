@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "读故事新编"
+title: "读《故事新编》"
 subtitle: '故事新编'
-author: "柳芽"
+author: "Loading"
 header-style: text
 tags:
   - 随笔
