@@ -2,7 +2,7 @@
 layout: post
 title: "读《尼罗河上的惨案》"
 subtitle: '尼罗河上的惨案'
-author: "磨芽"
+author: "蘑芽"
 header-style: text
 tags:
   - 随笔
