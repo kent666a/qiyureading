@@ -5,7 +5,7 @@ subtitle: '尼罗河上的惨案'
 author: "蘑芽"
 header-style: text
 tags:
-  - 随笔
+  - 蘑芽
   - 尼罗河上的惨案
 ---
 

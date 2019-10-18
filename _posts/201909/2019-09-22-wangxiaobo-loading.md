@@ -5,7 +5,7 @@ subtitle: '黄金时代,似水流年'
 author: "Loading"
 header-style: text
 tags:
-  - 随笔
+  - Loading
   - 王小波
 ---
 

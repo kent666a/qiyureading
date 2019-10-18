@@ -5,7 +5,7 @@ subtitle: '霍乱时期的爱情'
 author: "知退"
 header-style: text
 tags:
-  - 随笔
+  - 知退
   - 霍乱时期的爱情
 ---
 

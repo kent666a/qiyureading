@@ -5,7 +5,7 @@ subtitle: '牧羊少年奇幻之旅'
 author: "舍予"
 header-style: text
 tags:
-  - 随笔
+  - 舍予
   - 牧羊少年奇幻之旅
 ---
 

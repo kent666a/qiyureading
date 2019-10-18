@@ -5,7 +5,7 @@ subtitle: '云边有个小卖部'
 author: "渔舟唱晚"
 header-style: text
 tags:
-  - 随笔
+  - 渔舟唱晚
   - 云边有个小卖部
 ---
 
